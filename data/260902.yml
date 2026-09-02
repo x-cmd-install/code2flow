@@ -1,0 +1,61 @@
+about:
+  description: Pretty good call graphs for dynamic languages
+  license: MIT
+  homepage: 
+  head: c2c22af
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-02T04:28:49Z
+timeline:
+  created: 2013-05-24
+  lastCommit: 2023-01-08
+  lastRelease: ?
+popularity:
+  star: 4606
+  watcher: 76
+  fork: 332
+  release: 0
+  contributor: 10
+  pullRequest: 15
+  issue: 78
+language:
+  Python: 327881
+  JavaScript: 180452
+  PHP: 117677
+  Ruby: 36644
+  Makefile: 202
+  Hack: 40
+totalLine: 662896
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last360d:
+    since: 2025-09-07
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 2
+    commit: 0
