@@ -7,7 +7,7 @@ about:
   head: c2c22af
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:38:18Z
+  collectedAt: 2026-09-04T20:53:37Z
 timeline:
   created: 2013-05-24
   lastCommit: 2023-01-08
@@ -85,6 +85,59 @@ total:
   openIssue: 32
   commit: 126
 ---
+path: /home/runner/.x-repo/github.com/scottrogowski/code2flow
+collectedAt: 2026-09-04T20:53:37Z
+loc:
+  Python:
+    code: 6909
+    comments: 173
+    blanks: 852
+    files: 45
+  JavaScript:
+    code: 4953
+    comments: 343
+    blanks: 824
+    files: 25
+  Php:
+    code: 2672
+    comments: 972
+    blanks: 808
+    files: 70
+  Ruby:
+    code: 613
+    comments: 660
+    blanks: 202
+    files: 23
+  Json:
+    code: 81
+    comments: 0
+    blanks: 0
+    files: 3
+  Makefile:
+    code: 11
+    comments: 0
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 718
+    blanks: 527
+    files: 4
+  Text:
+    code: 0
+    comments: 9
+    blanks: 1
+    files: 1
+total:
+  code: 15281
+  comments: 2879
+  blanks: 3218
+  files: 173
 ---
 date: "2026-08-24"
 repo:
