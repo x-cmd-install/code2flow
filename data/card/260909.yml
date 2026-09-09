@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:01:08Z
+  collectedAt: 2026-09-09T19:23:51Z
 timeline:
   created: 2013-05-24
   lastCommit: 2023-01-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 4606
+  star: 4607
   watcher: 76
-  fork: 332
+  fork: 333
   release: 0
   contributor: 10
   pullRequest: 35
@@ -88,7 +88,7 @@ total:
   commit: 126
 ---
 path: /home/runner/.x-repo/github.com/scottrogowski/code2flow
-collectedAt: 2026-09-09T05:01:10Z
+collectedAt: 2026-09-09T19:23:52Z
 loc:
   Python:
     code: 6909
