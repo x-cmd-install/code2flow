@@ -1,24 +1,67 @@
 # code2flow
 
+[中文版本](./README.cn.md)
+
 Pretty good call graphs for dynamic languages
 
-- **Upstream**: <https://github.com/scottrogowski/code2flow>
-- **Homepage**: <>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2023-01-08
-- **License**: MIT
-- **Stars**: 4607 · **Forks**: 333 · **Open issues**: 78 · **Contributors**: 10
+![code2flow](https://repo.x-cmd.io/code2flow.svg)
 
-## Installation
+## Install
 
 ```sh
 x install code2flow
 ```
 
-See <https://x-cmd.com/install/code2flow> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/scottrogowski/code2flow>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Popularity
 
-_Last regenerated: 2026-09-09T19:23:55Z._
+- **Stars**: 4,607 · **Forks**: 333 · **Open issues**: 78 · **Contributors**: 10
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 20 · **Open PRs**: 6 · **Closed issues**: 46 · **Open issues**: 32 · **Commits**: 126
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 2 | 0 |
+
+## Code size
+
+Total: **15,242** lines of code across **166** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 6,909 | 173 | 852 | 45 |
+| JavaScript | 4,953 | 343 | 824 | 25 |
+| Php | 2,672 | 972 | 808 | 70 |
+| Ruby | 613 | 660 | 202 | 23 |
+| Json | 81 | 0 | 0 | 3 |
+
+## OpenSSF Scorecard
+
+Overall score: **2.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+
+## Improve this data
+
+Install metadata for code2flow lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `code2flow` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/code2flow.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:49:33Z._
