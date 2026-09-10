@@ -19,7 +19,7 @@ x install code2flow
 
 ## Popularity
 
-- **Stars**: 4,607 · **Forks**: 333 · **Open issues**: 78 · **Contributors**: 10
+- **Stars**: 4,608 · **Forks**: 333 · **Open issues**: 78 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -60,8 +60,8 @@ Lowest-scoring checks:
 Install metadata for code2flow lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `code2flow` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/code2flow.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/code2flow.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:49:33Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:42:48Z._
